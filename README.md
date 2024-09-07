@@ -7,11 +7,16 @@ Automates login to MS Teams using username and password.
 Retrieves unread chat messages by parsing the HTML content.
 Sends messages to the LLaMA3 model via an API to generate responses.
 ## Technologies Used
-### Python: Main programming language.
-### Selenium: For web automation and interaction with Microsoft Teams.
-### WebDriverManager: Automatically manages the Chrome WebDriver.
-### Requests: To send API requests to the LLaMA3 model.
-### JSON: To handle API payloads and responses.
+### Python: 
+Main programming language.
+### Selenium: 
+For web automation and interaction with Microsoft Teams.
+### WebDriverManager:
+Automatically manages the Chrome WebDriver.
+### Requests: 
+To send API requests to the LLaMA3 model.
+### JSON: 
+To handle API payloads and responses.
 ## Installation
 ### Clone the repository:
 ```
