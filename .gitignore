@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# Machine learning data
+data/
+*.csv
+*.h5
+*.hdf5
+*.json
+*.db
+
+# Machine learning models
+models/
+*.pkl
+*.h5
+*.sav
+
+# Config files
+*.log
+*.out
+
+# Credentials
+.env
+.DS_Store
