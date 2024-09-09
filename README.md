@@ -8,7 +8,7 @@ Retrieves unread chat messages by parsing the HTML content.
 Sends messages to the LLaMA3 model via an API to generate responses.
 ## Technologies Used
 ### Python: 
-Main programming language.
+Python is the Main programming language.
 ### Selenium: 
 For web automation and interaction with Microsoft Teams.
 ### WebDriverManager:
