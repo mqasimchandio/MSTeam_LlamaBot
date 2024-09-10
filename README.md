@@ -20,13 +20,11 @@ To handle API payloads and responses.
 ## Installation
 ### Clone the repository:
 ```
-bash
 git clone https://github.com/yourusername/your-repo-name.git
 ```
 ### Install the required Python packages:
 
 ```
-bash
 pip install -r requirements.txt
 ```
 ### Set your MS Teams credentials:
@@ -39,7 +37,6 @@ Usage
 Run the script to automate MS Teams login and retrieve unread chat messages:
 
 ```
-bash
 python ms_teams_automation.py
 ```
 
