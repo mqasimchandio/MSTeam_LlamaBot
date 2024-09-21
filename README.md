@@ -47,5 +47,3 @@ python ms_teams_automation.py
 - Open Chrome and log into MS Teams.
 - Parse the HTML to identify unread chats.
 - Interact with the LLaMA3 API to generate and display a response.
-## License
-This project is licensed under the MIT License.
