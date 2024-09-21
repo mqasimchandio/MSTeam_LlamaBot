@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 ### Set your MS Teams credentials:
 
-Replace YOUR_TEAMS_USER_NAME/EMAIL and your_password in the code with your Microsoft Teams login credentials.
+Replace `YOUR_TEAMS_USER_NAME/EMAIL` and `your_password` in the code with your Microsoft Teams login credentials.
 ### Configure the LLaMA3 API:
 
 Replace the API URL and any other required parameters.
